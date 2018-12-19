@@ -8,16 +8,16 @@
 
 For build the image *(pssst, go take your coffee, it's very very long !)* :
 ```
-docker build -t photon:0.2.7 .
+docker build -t photon:0.3.0 .
 ```
 
 For run a container with the image :
 ```
-docker run -d -p 2322:2322 photon:0.2.7
+docker run -d -p 2322:2322 photon:0.3.0
 ```
 
 ## Credits
 
 Photon is a komoot project: [Github](https://github.com/komoot/photon).
 
-This image was made by [Kevin Mollenhauer](https://github.com/KevinMOLLENHAUER) and [Valentin Michalak](https://github.com/vmichalak) from IKB4Stream team.
+This image was made by [Kevin Mollenhauer](https://github.com/KevinMOLLENHAUER) and [Valentin Michalak](https://github.com/vmichalak) from IKB4Stream team
